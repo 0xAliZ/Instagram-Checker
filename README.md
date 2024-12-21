@@ -8,7 +8,7 @@
 - **بايثون 3**
 - مكتبات: `requests` و `tkinter` (قد تكون مثبتة مسبقًا في معظم التوزيعات)
 - ملف نصي يحتوي على أسماء المستخدمين (كل اسم في سطر)
-- ملف نصي يحتوي على بروكسيات تدعم HTTPS (كل بروكسي في سطر)
+- ملف نصي يحتوي على بروكسيات تدعم  HTTPS , HTTPS (كل بروكسي في سطر)
 
 ### طريقة الاستخدام
 1. اضغط على **Load Usernames** لاختيار الملف الذي يحتوي على أسماء المستخدمين.
@@ -37,7 +37,7 @@ It uses a list of proxies to avoid bans or other issues during the checking proc
 - **Python 3**
 - Libraries: `requests` and `tkinter` (usually included by default on many systems)
 - A text file with usernames (one per line)
-- A text file with proxies supporting HTTPS (one per line)
+- A text file with proxies supporting HTTPS , HTTPS (one per line)
 
 ### How to Use
 1. Click **Load Usernames** to select the file containing the usernames.
