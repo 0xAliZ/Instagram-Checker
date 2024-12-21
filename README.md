@@ -26,8 +26,3 @@ The script can use a proxy list in the format IP:Port or IP:Port:User:Pass.
 ### Purpose
 WARNING ! This program is for **educational** purposes only. The user is solely responsible for any use. 
 
-
-
-
-
-"# Instagram-Checker" 
